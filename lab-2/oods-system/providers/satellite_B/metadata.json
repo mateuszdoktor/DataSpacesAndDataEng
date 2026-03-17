@@ -1,0 +1,7 @@
+{
+"dataset_name": "satellite_B_observations",
+"provider": "satellite_B",
+"format": "CSV",
+"description": "Orbital observation dataset",
+"temporal_resolution": "5 minutes"
+}
