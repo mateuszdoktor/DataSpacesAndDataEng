@@ -1,1 +1,35 @@
 1. directory structure of the laboratory environment
+
+	backup  metadata_catalog  providers  reports
+
+	./backup:
+	grstat_backup.csv  satA_backup.csv  satB_backup.csv
+
+	./metadata_catalog:
+	ground_station_metadata.json  satellite_A_metadata.json  satellite_B_metadata.json
+
+	./providers:
+	ground_station  satellite_A  satellite_B
+
+	./providers/ground_station:
+	metadata.json  observations.csv
+
+	./providers/satellite_A:
+	metadata.json  observations.csv
+
+	./providers/satellite_B:
+	metadata.json  observations.csv
+
+	./reports:
+	data_summary.txt  lab00_check.txt  lab01_report.txt
+
+2. dataset files created for all providers
+		
+	satellite_A/observations.csv
+	2026-03-01T12:10:00,OBJ-003,14.1,7.4
+	2026-03-01T12:00:00,OBJ-001,15.3,7.4
+	2026-03-01T12:05:00,OBJ-002,14.2,7.1
+	2026-03-01T12:10:00,OBJ-003,13.9,7.4
+
+3.
+
