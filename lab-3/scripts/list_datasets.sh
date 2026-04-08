@@ -1,5 +1,5 @@
 #!/bin/bash
 for file in ../providers/*/*.csv
 do
- echo "$file"
+  echo $file
 done
