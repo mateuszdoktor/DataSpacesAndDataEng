@@ -1,0 +1,6 @@
+DATA SPACE HEALTH REPORT
+Total datasets: 3
+Datasets missing metadata: 1
+Empty datasets: 0
+Inconsistent datasets (records): 4
+Federated queries complete: no
