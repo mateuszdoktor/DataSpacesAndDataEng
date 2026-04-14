@@ -1,10 +1,6 @@
 #!/bin/bash
-get_paths(){
-grep "data_path" ../metadata_catalog/*.json | cut -d ":" -f3 | cut -d '"' -f2
-}
-
-for file in $(get_paths)
+for metadata in ../metadata_catalog/*.json
 do
- echo "$(grep $1 ../$file)" 
+  data_path=$(grep "data_path" $metadata | cut -d '"' -f4)
+  grep $1 ../$data_path 2>/dev/null
 done
-

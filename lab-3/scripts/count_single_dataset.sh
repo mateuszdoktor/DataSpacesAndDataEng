@@ -1,3 +1,2 @@
 #!/bin/bash
-
-echo "records in $1: $(cat $1 | wc -l)"
+wc -l ../providers/satellite_A/observations.csv
