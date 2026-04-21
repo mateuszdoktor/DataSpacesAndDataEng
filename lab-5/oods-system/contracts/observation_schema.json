@@ -1,0 +1,8 @@
+{
+"required_fields": [
+"timestamp",
+"object_id",
+"temperature",
+"velocity"
+]
+}
