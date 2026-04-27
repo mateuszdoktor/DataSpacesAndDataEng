@@ -1,0 +1,96 @@
+1. Directory structure of the laboratory environment
+
+	backup  metadata_catalog  providers  reports
+
+	./backup:
+	grstat_backup.csv  satA_backup.csv  satB_backup.csv
+
+	./metadata_catalog:
+	ground_station_metadata.json  satellite_A_metadata.json  satellite_B_metadata.json
+
+	./providers:
+	ground_station  satellite_A  satellite_B
+
+	./providers/ground_station:
+	metadata.json  observations.csv
+
+	./providers/satellite_A:
+	metadata.json  observations.csv
+
+	./providers/satellite_B:
+	metadata.json  observations.csv
+
+	./reports:
+	data_summary.txt  lab00_check.txt  lab01_report.txt
+
+2. Dataset files created for all providers
+		
+	satellite_A/observations.csv
+	2026-03-01T12:10:00,OBJ-003,14.1,7.4
+	2026-03-01T12:00:00,OBJ-001,15.3,7.4
+	2026-03-01T12:05:00,OBJ-002,14.2,7.1
+	2026-03-01T12:10:00,OBJ-003,13.9,7.4
+	
+	satellite_B/observations.csv
+	2026-03-01T12:05:00,OBJ-002,14.4,7.0
+	2026-03-01T12:00:00,OBJ-001,15.5,7.6
+	2026-03-01T12:05:00,OBJ-002,14.6,7.1
+	2026-03-01T12:10:00,OBJ-003,15.3,7.3
+
+	ground_station/observations.csv 
+	2026-03-01T12:00:00,OBJ-001,15.3,7.4
+	2026-03-01T12:05:00,OBJ-002,14.9,7.2
+	2026-03-01T12:10:00,OBJ-003,15.1,7.5
+
+3. Metadata files for all providers
+	
+	satellite_A/metadata.json 
+	{
+	"dataset_name": "satellite_A_observations",
+	"provider": "satellite_A",
+	"format": "CSV",
+	"description": "Orbital observation dataset",
+	"temporal_resolution": "5 minutes"
+	}
+
+	satellite_B/metadata.json 
+	{
+	"dataset_name": "satellite_B_observations",
+	"provider": "satellite_B",
+	"format": "CSV",
+	"description": "Orbital observation dataset",
+	"temporal_resolution": "5 minutes"
+	}
+
+	ground_station/metadata.json 
+	{
+	"dataset_name": "ground_station_observations",
+	"provider": "ground_station",
+	"format": "CSV",
+	"description": "Orbital observation dataset",
+	"temporal_resolution": "5 minutes"
+	}
+
+4. Description of the system architecture
+
+A distributed filesystem-based model where three independent data providers are linked through a separate federated hub.
+
+5. Explaination of the role of the metadata catalog
+
+It aggregates metadata descriptions to enable centralized discovery while the actual datasets remain stored locally at the providers.
+
+6. Discussion questions
+	
+	1. Which components store the actual data?
+The data is stored only at the independent provider nodes: Satellite Provider A, Satellite Provider B, and the Ground Station Provider.	
+
+	2. Which component enables dataset discovery?
+The federated metadata catalog enables discovery by storing and displaying metadata records.
+
+	3. What advantages does the fedarated architecture provide?
+It allows for data collaboration without the need for centralizing or duplicating large datasets. It also ensures that providers maintain control over their own data.
+
+	4. What limitations might such a system have? 
+Limitations include the need for manual updates to keep the catalog synchronized and the requirement for all participants to follow standardized metadata and access interfaces.
+
+*Github repository: https://github.com/mateuszdoktor/DataSpacesAndDataEng

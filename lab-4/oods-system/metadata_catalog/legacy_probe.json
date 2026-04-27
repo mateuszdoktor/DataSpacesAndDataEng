@@ -1,0 +1,8 @@
+{
+  "dataset_name": "legacy_probe_observations",
+  "provider": "legacy_probe",
+  "format": "CSV",
+  "description": "Deprecated metadata entry pointing to a non-existing dataset",
+  "temporal_resolution": "10 minutes",
+  "data_path": "providers/legacy_probe/observations.csv"
+}
