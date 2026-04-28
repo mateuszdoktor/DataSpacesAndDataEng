@@ -1,0 +1,9 @@
+{
+    "required_fields": [
+        "provider",
+        "timestamp",
+        "object_id",
+        "temperature",
+        "velocity"
+    ]
+}

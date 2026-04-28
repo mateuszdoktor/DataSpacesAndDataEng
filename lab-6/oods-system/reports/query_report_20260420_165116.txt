@@ -1,0 +1,22 @@
+DATA SPACE QUERY REPORT
+-----------------------
+Generated at: 2026-04-20 16:51:16
+
+[GLOBAL STATISTICS]
+Total observations: 19
+Distinct objects: 8
+
+[OBJECT ANALYSIS: OBJ-003]
+Providers containing object:
+- satellite_B
+- satellite_A
+- ground_station
+Total observations: 5
+
+[FEDERATED QUERY COMPARISON]
+FULL RESULT: 5
+FEDERATED RESULT: 4
+COMPLETE: NO
+
+[SCHEMA VALIDATION]
+Schema consistency: CONSISTENT
