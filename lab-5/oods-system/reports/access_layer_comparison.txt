@@ -1,0 +1,21 @@
+Task 12: Comparing Access Layers
+
+1. Which access style is easiest to implement?
+REST access is generally the easiest to implement. It requires a relatively simple HTTP server setup (for example, with FastAPI or Flask), 
+using standard JSON serialization which is native for many modern languages. Providers simply map their local files or databases to straightforward endpoints.
+
+2. Which is best for SQL-style analytical processing?
+DuckDB SQL federation over HTTP is the best for analytical processing. DuckDB allows writing expressive, standardized SQL queries spanning across 
+remote CSVs and databases without ingesting them centrally. This simplifies complex aggregation, counts, and grouping.
+
+3. Which is best for object-centric access?
+GraphQL federation layer is the best for object-centric access. It provides semantic unity, and the query inherently follows an object schema. 
+The client can request exactly the fields needed tailored to a specific object (like OBJ-003) rather than traversing or downloading full REST collections.
+
+4. Which introduces the highest architectural complexity?
+The GraphQL gateway federation introduces the highest architectural complexity. It acts as an integration and intermediary layer demanding its own 
+schema definitions, resolution functions mapped to the varying providers, active network polling to underlying systems, and GraphQL-specific server maintenance.
+
+5. Which is closest to a data space or data mesh access layer?
+The GraphQL gateway federation is closest to a data space or data mesh access layer, because it presents a unified, semantic API boundary 
+covering decentralized or federated data assets uniformly while preserving underlying data ownership.
