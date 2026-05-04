@@ -1,5 +1,0 @@
-[
-{"name": "satellite_A", "url": "http://127.0.0.1:8001"},
-{"name": "satellite_B", "url": "http://127.0.0.1:8002"},
-{"name": "ground_station", "url": "http://127.0.0.1:8003"}
-]
