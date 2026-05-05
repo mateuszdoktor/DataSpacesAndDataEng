@@ -1,7 +1,0 @@
-{
-"dataset_name": "ground_station_observations",
-"provider": "ground_station",
-"format": "CSV",
-"description": "Orbital observation dataset",
-"temporal_resolution": "5 minutes"
-}

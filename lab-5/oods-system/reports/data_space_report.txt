@@ -1,5 +1,0 @@
-DATA SPACE REPORT
-Total datasets: 3
-Total records: 22
-Objects found for query OBJ-003: 6
-Consistency check: no
