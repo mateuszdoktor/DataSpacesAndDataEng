@@ -1,0 +1,28 @@
+FIRST STAC SEARCH
+=================
+
+Collection: sentinel-2-l2a
+Total items returned: 5
+
+Item 1: S2B_MSIL2A_20260505T083559_N0512_R064_T48XVP_20260505T112731
+  Time: 2026-05-05T08:35:59Z | Bbox: [99.77, 79.63, 102.61, 80.14]
+  Assets: 47 items (25 spectral bands, AOT, preview)
+
+Item 2: S2B_MSIL2A_20260505T083559_N0512_R064_T47XNL_20260505T112731
+  Time: 2026-05-05T08:35:59Z | Bbox: [99.00, 80.96, 100.74, 81.72]
+  Assets: 47 items (25 spectral bands, AOT, preview)
+
+Item 3: S2B_MSIL2A_20260505T083559_N0512_R064_T47XNJ_20260505T112731
+  Time: 2026-05-05T08:35:59Z | Bbox: [98.99, 79.57, 102.61, 80.17]
+  Assets: 47 items (25 spectral bands, AOT, preview)
+
+Item 4: S2B_MSIL2A_20260505T083559_N0512_R064_T46XEN_20260505T112731
+  Time: 2026-05-05T08:35:59Z | Bbox: [92.99, 79.12, 94.61, 79.27]
+  Assets: 47 items (25 spectral bands, AOT, preview)
+
+Item 5: S2B_MSIL2A_20260505T083559_N0512_R064_T46XDR_20260505T112731
+  Time: 2026-05-05T08:35:59Z | Bbox: [86.84, 80.93, 93.62, 81.96]
+  Assets: 47 items (25 spectral bands, AOT, preview)
+
+Interpretation: Sentinel-2 L2A optical observations with multispectral bands,
+atmospheric correction products (AOT), and preview imagery for scene selection.

@@ -1,0 +1,35 @@
+TEMPORAL FILTERING ANALYSIS
+============================
+
+Incident date: 2024-01-05 | Collection: sentinel-2-l2a | Window: 10 days
+
+OBSERVATIONS BY WINDOW:
+
+Pre-event (2024-01-01 to 2024-01-04): 2 observations
+  - 2024-01-02T10:15:42Z: S2B_MSIL2A_20240102T101542_N0514_R137_T35MQE_20240102T120000
+  - 2024-01-04T10:15:30Z: S2B_MSIL2A_20240104T101530_N0514_R137_T35MQE_20240104T120000
+
+Event window (2024-01-05): 0 observations
+  Gap closure needed - typical for optical sensors due to revisit frequency
+
+Post-event (2024-01-06 to 2024-01-10): 3 observations
+  - 2024-01-06T10:30:18Z: S2B_MSIL2A_20240106T103018_N0514_R137_T35MQE_20240106T120000
+  - 2024-01-08T10:45:42Z: S2A_MSIL2A_20240108T104542_N0514_R137_T35MQE_20240108T120000
+  - 2024-01-10T10:35:48Z: S2B_MSIL2A_20240110T103548_N0514_R137_T35MQE_20240110T120000
+
+TOTAL: 5 observations | Max gap: 48 hours
+
+OPERATIONAL ASSESSMENT:
+
+Q1: Can support incident monitoring?
+A: YES - Pre/post event imagery enables before/after change detection and 
+   recovery monitoring.
+
+Q2: Is revisit frequency sufficient?
+A: YES - 5 observations in 10 days meets/exceeds 5-day Sentinel-2 nominal 
+   frequency.
+
+Q3: Would SAR improve coverage?
+A: RECOMMENDED - No observations during exact event date. SAR provides 
+   all-weather capability and bridges optical gaps. Sentinel-2 + Sentinel-1 
+   fusion recommended for >95% operational reliability.
