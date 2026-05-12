@@ -1,0 +1,15 @@
+TEMPORAL ANALYSIS
+=================
+
+Total items: 40
+Earliest observation: 2024-01-02T09:54:11.024Z
+Latest observation: 2024-01-10T10:03:09.024Z
+Observation span: 8 days
+
+Temporal gaps (>48h):
+- None detected
+
+CONCLUSIONS:
+- Federated catalog provides multi-day coverage across sensors
+- Any gaps indicate revisit limits or missing acquisitions
+- Adding more sensors would improve temporal continuity

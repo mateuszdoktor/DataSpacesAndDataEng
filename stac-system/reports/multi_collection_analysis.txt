@@ -1,0 +1,25 @@
+MULTI-COLLECTION ANALYSIS
+==========================
+
+AOI: [19.0, 50.0, 20.0, 51.0]
+Time window: 2024-01-01T00:00:00Z/2024-01-31T23:59:59Z
+
+COLLECTION: sentinel-2-l2a
+Returned items: 10
+Sample acquisition times: 2024-01-29T09:42:41.024Z, 2024-01-29T09:42:41.024Z, 2024-01-29T09:42:41.024Z, 2024-01-29T09:42:41.024Z, 2024-01-29T09:42:41.024Z
+Sample assets: AOT_10m, AOT_20m, AOT_60m, B01_20m, B01_60m, B02_10m, B02_20m, B02_60m, B03_10m, B03_20m
+Selected metadata fields present: platform, instruments, eo:cloud_cover, sat:orbit_state
+
+COLLECTION: ccm-sar
+Returned items: 0
+Sample acquisition times: N/A
+Sample assets: N/A
+Selected metadata fields present: N/A
+
+ANALYSIS:
+- More observations: sentinel-2-l2a
+- Richer metadata: sentinel-2-l2a (optical assets and cloud cover fields)
+- Radar availability: no products returned in this window
+- Flood/night monitoring: use SAR if another collection is available
+- Wildfire assessment: optical collection (spectral detail)
+- Vegetation analysis: optical collection (multispectral bands)

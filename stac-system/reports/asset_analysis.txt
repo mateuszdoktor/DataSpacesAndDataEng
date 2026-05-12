@@ -1,0 +1,127 @@
+ASSET ANALYSIS
+===============
+
+PRODUCT 1:
+ID: S2B_MSIL2A_20260512T082559_N0512_R021_T48XVR_20260512T105302
+ASSET COUNT: 47
+ASSETS:
+- AOT_10m
+- AOT_20m
+- AOT_60m
+- B01_20m
+- B01_60m
+- B02_10m
+- B02_20m
+- B02_60m
+- B03_10m
+- B03_20m
+- B03_60m
+- B04_10m
+- B04_20m
+- B04_60m
+- B05_20m
+- B05_60m
+- B06_20m
+- B06_60m
+- B07_20m
+- B07_60m
+- B08_10m
+- B09_60m
+- B11_20m
+- B11_60m
+- B12_20m
+- B12_60m
+- B8A_20m
+- B8A_60m
+- CLD_20m
+- CLD_60m
+- Product
+- SCL_20m
+- SCL_60m
+- SNW_20m
+- SNW_60m
+- TCI_10m
+- TCI_20m
+- TCI_60m
+- WVP_10m
+- WVP_20m
+- WVP_60m
+- datastrip_metadata
+- granule_metadata
+- inspire_metadata
+- product_metadata
+- safe_manifest
+- thumbnail
+VISUAL ASSET: thumbnail
+SCIENTIFIC ASSET: B04_10m
+METADATA ASSET: datastrip_metadata
+SCIENTIFIC ASSET DETAILS:
+- Name: B04_10m
+- Format: image/jp2
+- Resolution (GSD): 10
+- Authentication required: True
+
+PRODUCT 2:
+ID: S2B_MSIL2A_20260512T082559_N0512_R021_T48XVQ_20260512T105302
+ASSET COUNT: 47
+ASSETS:
+- AOT_10m
+- AOT_20m
+- AOT_60m
+- B01_20m
+- B01_60m
+- B02_10m
+- B02_20m
+- B02_60m
+- B03_10m
+- B03_20m
+- B03_60m
+- B04_10m
+- B04_20m
+- B04_60m
+- B05_20m
+- B05_60m
+- B06_20m
+- B06_60m
+- B07_20m
+- B07_60m
+- B08_10m
+- B09_60m
+- B11_20m
+- B11_60m
+- B12_20m
+- B12_60m
+- B8A_20m
+- B8A_60m
+- CLD_20m
+- CLD_60m
+- Product
+- SCL_20m
+- SCL_60m
+- SNW_20m
+- SNW_60m
+- TCI_10m
+- TCI_20m
+- TCI_60m
+- WVP_10m
+- WVP_20m
+- WVP_60m
+- datastrip_metadata
+- granule_metadata
+- inspire_metadata
+- product_metadata
+- safe_manifest
+- thumbnail
+VISUAL ASSET: thumbnail
+SCIENTIFIC ASSET: B04_10m
+METADATA ASSET: datastrip_metadata
+SCIENTIFIC ASSET DETAILS:
+- Name: B04_10m
+- Format: image/jp2
+- Resolution (GSD): 10
+- Authentication required: True
+
+CONCLUSIONS:
+- Products with more spectral band assets are better for scientific analysis
+- Products with thumbnail/visual assets are better for quick inspection
+- For AI pipelines, prefer products with 10m bands (e.g., B04_10m, B08_10m)

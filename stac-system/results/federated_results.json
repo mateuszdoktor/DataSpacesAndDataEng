@@ -1,0 +1,562 @@
+[
+  {
+    "id": "S2A_MSIL2A_20240102T095411_N0510_R079_T34UDB_20240102T124351",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-02T09:54:11.024Z",
+    "bbox": [
+      19.560548,
+      50.455265,
+      21.140458,
+      51.451098
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2A_MSIL2A_20240102T095411_N0510_R079_T34UDA_20240102T124351",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-02T09:54:11.024Z",
+    "bbox": [
+      19.588086,
+      49.556488,
+      21.029693,
+      50.551619
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2B_MSIL2A_20240104T094319_N0510_R036_T34UDB_20240104T112130",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-04T09:43:19.024Z",
+    "bbox": [
+      19.561022,
+      50.455265,
+      21.140458,
+      51.451098
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2B_MSIL2A_20240104T094319_N0510_R036_T34UDA_20240104T112130",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-04T09:43:19.024Z",
+    "bbox": [
+      19.588086,
+      49.556488,
+      21.13777,
+      50.552211
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2B_MSIL2A_20240104T094319_N0510_R036_T34UCB_20240104T112130",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-04T09:43:19.024Z",
+    "bbox": [
+      19.162865,
+      50.44691,
+      19.729301,
+      51.443998
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2B_MSIL2A_20240104T094319_N0510_R036_T34UCA_20240104T112130",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-04T09:43:19.024Z",
+    "bbox": [
+      18.80785,
+      49.541649,
+      19.752783,
+      50.545333
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2B_MSIL2A_20240104T094319_N0510_R036_T33UYS_20240104T112130",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-04T09:43:19.024Z",
+    "bbox": [
+      19.139647,
+      50.382122,
+      19.425168,
+      51.097404
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2B_MSIL2A_20240104T094319_N0510_R036_T33UYR_20240104T112130",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-04T09:43:19.024Z",
+    "bbox": [
+      18.79186,
+      49.48562,
+      19.365743,
+      50.476268
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2A_MSIL2A_20240105T100411_N0510_R122_T34UCG_20240105T122650",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-05T10:04:11.024Z",
+    "bbox": [
+      17.800511,
+      54.919027,
+      19.591601,
+      55.937273
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  },
+  {
+    "id": "S2A_MSIL2A_20240105T100411_N0510_R122_T34UCF_20240105T122650",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-05T10:04:11.024Z",
+    "bbox": [
+      17.872404,
+      54.021431,
+      19.622172,
+      55.038803
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  },
+  {
+    "id": "S2A_MSIL2A_20240105T100411_N0510_R122_T34UCE_20240105T122650",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-05T10:04:11.024Z",
+    "bbox": [
+      17.940406,
+      53.123645,
+      19.651121,
+      54.140187
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  },
+  {
+    "id": "S2B_MSIL2A_20240107T095309_N0510_R079_T34UDB_20240107T111502",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-07T09:53:09.024Z",
+    "bbox": [
+      19.560548,
+      50.455265,
+      21.140458,
+      51.451098
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2B_MSIL2A_20240107T095309_N0510_R079_T34UDA_20240107T111502",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-07T09:53:09.024Z",
+    "bbox": [
+      19.588086,
+      49.556488,
+      21.028232,
+      50.551611
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2B_MSIL2A_20240107T095309_N0510_R079_T34UCB_20240107T111502",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-07T09:53:09.024Z",
+    "bbox": [
+      18.123708,
+      50.429713,
+      19.729301,
+      51.443998
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2B_MSIL2A_20240107T095309_N0510_R079_T34UCA_20240107T111502",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-07T09:53:09.024Z",
+    "bbox": [
+      18.178668,
+      49.531731,
+      19.752783,
+      50.545333
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2B_MSIL2A_20240107T095309_N0510_R079_T33UYS_20240107T111502",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-07T09:53:09.024Z",
+    "bbox": [
+      17.81551,
+      50.382122,
+      19.45059,
+      51.415898
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2B_MSIL2A_20240107T095309_N0510_R079_T33UYR_20240107T111502",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-07T09:53:09.024Z",
+    "bbox": [
+      17.763545,
+      49.48562,
+      19.365743,
+      50.518114
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2B_MSIL2A_20240107T095309_N0510_R079_T34UCG_20240107T111502",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-07T09:53:09.024Z",
+    "bbox": [
+      18.593946,
+      54.932348,
+      19.591601,
+      55.937273
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  },
+  {
+    "id": "S2B_MSIL2A_20240107T095309_N0510_R079_T34UCF_20240107T111502",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-07T09:53:09.024Z",
+    "bbox": [
+      18.174498,
+      54.025627,
+      19.622172,
+      55.038803
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  },
+  {
+    "id": "S2B_MSIL2A_20240107T095309_N0510_R079_T34UCE_20240107T111502",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-07T09:53:09.024Z",
+    "bbox": [
+      17.977563,
+      53.123645,
+      19.651121,
+      54.140187
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  },
+  {
+    "id": "S2B_MSIL2A_20240107T095309_N0510_R079_T33UYV_20240107T111502",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-07T09:53:09.024Z",
+    "bbox": [
+      17.988492,
+      53.071257,
+      19.73349,
+      54.104312
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  },
+  {
+    "id": "S2B_MSIL2A_20240107T095309_N0510_R079_T33UXV_20240107T111502",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-07T09:53:09.024Z",
+    "bbox": [
+      17.771123,
+      53.119881,
+      18.208955,
+      54.101242
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  },
+  {
+    "id": "S2A_MSIL2A_20240108T101401_N0510_R022_T34UCG_20240108T121951",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-08T10:14:01.024Z",
+    "bbox": [
+      17.800511,
+      54.919027,
+      19.014768,
+      55.927066
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  },
+  {
+    "id": "S2A_MSIL2A_20240108T101401_N0510_R022_T34UCF_20240108T121951",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-08T10:14:01.024Z",
+    "bbox": [
+      17.872404,
+      54.150882,
+      18.451672,
+      55.017592
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  },
+  {
+    "id": "S2A_MSIL2A_20240108T101401_N0510_R022_T33UXV_20240108T121951",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-08T10:14:01.024Z",
+    "bbox": [
+      16.49538,
+      53.134968,
+      17.914068,
+      54.138373
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  },
+  {
+    "id": "S2A_MSIL2A_20240108T101401_N0510_R022_T33UXB_20240108T121951",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-08T10:14:01.024Z",
+    "bbox": [
+      16.561357,
+      54.915007,
+      18.355968,
+      55.935335
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  },
+  {
+    "id": "S2A_MSIL2A_20240108T101401_N0510_R022_T33UXA_20240108T121951",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-08T10:14:01.024Z",
+    "bbox": [
+      16.527469,
+      54.024207,
+      18.280575,
+      55.036929
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  },
+  {
+    "id": "S2A_MSIL2A_20240109T094351_N0510_R036_T34UDB_20240109T125450",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-09T09:43:51.024Z",
+    "bbox": [
+      19.561991,
+      50.455265,
+      21.140458,
+      51.451098
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2A_MSIL2A_20240109T094351_N0510_R036_T34UDA_20240109T125450",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-09T09:43:51.024Z",
+    "bbox": [
+      19.588086,
+      49.556488,
+      21.13777,
+      50.552211
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2A_MSIL2A_20240109T094351_N0510_R036_T34UCB_20240109T125450",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-09T09:43:51.024Z",
+    "bbox": [
+      19.176933,
+      50.447158,
+      19.729301,
+      51.443998
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2A_MSIL2A_20240109T094351_N0510_R036_T34UCA_20240109T125450",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-09T09:43:51.024Z",
+    "bbox": [
+      18.822165,
+      49.541897,
+      19.752783,
+      50.545333
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2A_MSIL2A_20240109T094351_N0510_R036_T33UYS_20240109T125450",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-09T09:43:51.024Z",
+    "bbox": [
+      19.153444,
+      50.382122,
+      19.420914,
+      51.052355
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2A_MSIL2A_20240109T094351_N0510_R036_T33UYR_20240109T125450",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-09T09:43:51.024Z",
+    "bbox": [
+      18.805618,
+      49.48562,
+      19.365743,
+      50.475842
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_southern_poland"
+  },
+  {
+    "id": "S2B_MSIL2A_20240110T100309_N0510_R122_T34UCG_20240110T113053",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-10T10:03:09.024Z",
+    "bbox": [
+      17.800511,
+      54.919027,
+      19.591601,
+      55.937273
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  },
+  {
+    "id": "S2B_MSIL2A_20240110T100309_N0510_R122_T34UCF_20240110T113053",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-10T10:03:09.024Z",
+    "bbox": [
+      17.872404,
+      54.021431,
+      19.622172,
+      55.038803
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  },
+  {
+    "id": "S2B_MSIL2A_20240110T100309_N0510_R122_T34UCE_20240110T113053",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-10T10:03:09.024Z",
+    "bbox": [
+      17.940406,
+      53.123645,
+      19.651121,
+      54.140187
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  },
+  {
+    "id": "S2B_MSIL2A_20240110T100309_N0510_R122_T33UYV_20240110T113053",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-10T10:03:09.024Z",
+    "bbox": [
+      17.988492,
+      53.071257,
+      19.73349,
+      54.109222
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  },
+  {
+    "id": "S2B_MSIL2A_20240110T100309_N0510_R122_T33UXV_20240110T113053",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-10T10:03:09.024Z",
+    "bbox": [
+      16.49538,
+      53.119881,
+      18.20926,
+      54.138373
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  },
+  {
+    "id": "S2B_MSIL2A_20240110T100309_N0510_R122_T33UXB_20240110T113053",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-10T10:03:09.024Z",
+    "bbox": [
+      16.561357,
+      54.915007,
+      18.355968,
+      55.935335
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  },
+  {
+    "id": "S2B_MSIL2A_20240110T100309_N0510_R122_T33UXA_20240110T113053",
+    "collection": "sentinel-2-l2a",
+    "datetime": "2024-01-10T10:03:09.024Z",
+    "bbox": [
+      16.527469,
+      54.017542,
+      18.280575,
+      55.036929
+    ],
+    "assets_count": 43,
+    "source_provider": "CDSE",
+    "source_query": "optical_baltic_region"
+  }
+]

@@ -1,0 +1,12 @@
+STAC REPORT
+==========
+
+Total items: 40
+Collections: sentinel-2-l2a
+Temporal coverage: 2024-01-02T09:54:11.024Z to 2024-01-10T10:03:09.024Z (span 8 days)
+Spatial coverage: [16.49538, 49.48562, 21.140458, 55.937273]
+Duplicate items removed: 0
+Failed queries: 0
+Empty search regions: 1
+Assets available (sample): AOT_10m, AOT_20m, AOT_60m, B01_20m, B01_60m, B02_10m, B02_20m, B02_60m
+Metadata completeness score: 100.0%

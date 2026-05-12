@@ -1,0 +1,21 @@
+FEDERATED SEARCH SUMMARY
+========================
+
+Radar collection used: ccm-sar
+
+Products per query:
+- optical_southern_poland: 20
+- optical_baltic_region: 20
+- radar_southern_poland: 0
+
+DUPLICATES_REMOVED: 0
+TOTAL_UNIQUE_PRODUCTS: 40
+EARLIEST_OBSERVATION: 2024-01-02T09:54:11.024Z
+LATEST_OBSERVATION: 2024-01-10T10:03:09.024Z
+COLLECTIONS: sentinel-2-l2a
+FAILED_QUERIES: 0
+EMPTY_SEARCH_REGIONS: 1
+
+INTERPRETATION:
+- Radar query returned 0 items; consider another SAR collection
+- Optical collections provide current coverage in this time window
