@@ -1,0 +1,31 @@
+STAC COLLECTION ANALYSIS
+========================
+
+1. Available collections (first 5):
+   - ccm-optical
+   - ccm-sar
+   - clms_ba_global_300m_daily_v3_cog
+   - clms_ba_global_300m_daily_v3_nc
+   - clms_ba_global_300m_daily_v4_cog
+
+2. Optical collection: ccm-optical
+
+3. Radar/SAR collection: ccm-sar
+
+4. Selected collection: ccm-optical
+   Title: Copernicus Contributing Missions Optical
+   Temporal: 1998-01-19 onwards
+   Authentication: S3, OIDC
+
+5. Sentinel platforms: sentinel-2a, sentinel-2
+
+6. Example platforms: alos-1, beijing-1, geosat-1, worldview-2
+
+7. Example instruments: aeiss, avnir-2, bgi, dem
+
+8. Spatial coverage: Global (-83.7°W to 65.7°E, -35.5°S to 80.9°N)
+
+9. Available assets: thumbnail, spectral bands, atmospheric products
+
+10. Rationale: Selected for optical EO with Sentinel-2 and multi-platform 
+    support enabling diverse regional monitoring scenarios.

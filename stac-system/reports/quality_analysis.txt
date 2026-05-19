@@ -1,0 +1,18 @@
+QUALITY ANALYSIS
+===============
+
+PRODUCT 1:
+ID: S2B_MSIL2A_20260512T082559_N0512_R021_T42XWH_20260512T105302
+TIME: 2026-05-12T08:25:59.024000Z
+CLOUD COVER: 0.0
+
+PRODUCT 2:
+ID: S2B_MSIL2A_20260512T082559_N0512_R021_T48XVR_20260512T105302
+TIME: 2026-05-12T08:25:59.024000Z
+CLOUD COVER: 100.0
+
+CONCLUSION:
+- Select the low-cloud product for mission analysis
+- Reject the high-cloud product due to poor visibility
+- Optical imagery becomes operationally risky above ~40-50% cloud cover
+- SAR imagery would improve reliability during cloudy periods
