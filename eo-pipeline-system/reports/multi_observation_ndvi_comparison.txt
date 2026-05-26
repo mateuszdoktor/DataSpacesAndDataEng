@@ -1,0 +1,25 @@
+MULTI-OBSERVATION NDVI COMPARISON
+=================================
+low_cloud_observation
+--------------------
+Cloud cover: 5%
+NDVI min: -0.59
+NDVI max: 0.94
+NDVI mean: 0.28
+High vegetation pixels: 9102
+Low NDVI pixels: 8949
+high_cloud_observation
+---------------------
+Cloud cover: 75%
+NDVI min: -0.53
+NDVI max: 1.06
+NDVI mean: 0.27
+High vegetation pixels: 9103
+Low NDVI pixels: 8947
+ENGINEERING COMPARISON
+---------------------
+The low-cloud observation provides a clearer and more useful NDVI result.
+The high-cloud observation is operationally less reliable because clouds
+reduce interpretability and may hide the real surface signal.
+Recommended observation:
+low_cloud_observation

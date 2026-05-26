@@ -1,0 +1,10 @@
+{
+    "dataset_size": 3,
+    "images_directory": "dataset/images",
+    "metadata_directory": "dataset/metadata",
+    "quality_distribution": {
+        "excellent": 1,
+        "good": 1,
+        "limited": 1
+    }
+}

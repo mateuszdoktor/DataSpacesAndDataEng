@@ -1,0 +1,17 @@
+{
+    "observation_id": "OBS_001",
+    "sensor": "Sentinel-2",
+    "cloud_cover": 5,
+    "mean_ndvi": 0.62,
+    "quality": "excellent",
+    "suitability": "AI_READY",
+    "selected_assets": [
+        "dataset/images/OBS_001_ndvi_map.png",
+        "dataset/images/OBS_001_water_mask.png"
+    ],
+    "labels": {
+        "vegetation_monitoring": "AI_READY",
+        "ai_training": "AI_READY",
+        "cloud_conditions": "LOW"
+    }
+}

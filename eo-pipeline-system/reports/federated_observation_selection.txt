@@ -1,0 +1,22 @@
+FEDERATED OBSERVATION SELECTION REPORT
+======================================
+Sensors compared:
+- Sentinel-2 Optical
+- Sentinel-1 SAR
+Scenario-based sensor selection:
+-------------------------------
+Scenario: normal
+Recommended sensor: Sentinel-2 Optical
+Scores:
+- Sentinel-2 Optical: 148.98
+- Sentinel-1 SAR: 100.00
+Scenario: cloudy
+Recommended sensor: Sentinel-1 SAR
+Scores:
+- Sentinel-2 Optical: 68.00
+- Sentinel-1 SAR: 130.00
+Scenario: night
+Recommended sensor: Sentinel-1 SAR
+Scores:
+- Sentinel-2 Optical: 40.00
+- Sentinel-1 SAR: 130.00

@@ -1,0 +1,11 @@
+NDVI ANALYSIS REPORT
+====================
+Input NDVI file: results/ndvi/ndvi.npy
+NDVI map: results/ndvi/ndvi_map.png
+NDVI MIN: -0.8157403875788573
+NDVI MAX: 0.9676253343996276
+NDVI MEAN: 0.34462570901516903
+HIGH VEGETATION PIXELS: 9961
+LOW NDVI PIXELS: 935
+Interpretation:
+Vegetated areas correspond to higher NDVI values. Non-vegetated areas correspond to lower or negative NDVI values. Low NDVI areas may represent water, shadows or urban surfaces. No direct cloud contamination can be confirmed because the input bands were synthetically generated for pipeline testing.
