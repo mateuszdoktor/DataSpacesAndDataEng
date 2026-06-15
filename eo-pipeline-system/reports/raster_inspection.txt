@@ -1,0 +1,19 @@
+==================================================
+assets/visual/visual.jp2
+SKIPPED: File not found
+
+==================================================
+assets/bands/B04_10m.tif
+Width: 300
+Height: 300
+Bands: 1
+CRS: EPSG:4326
+Bounds: BoundingBox(left=19.0, bottom=-2949.0, right=3019.0, top=51.0)
+
+==================================================
+assets/bands/B08_10m.tif
+Width: 300
+Height: 300
+Bands: 1
+CRS: EPSG:4326
+Bounds: BoundingBox(left=19.0, bottom=-2949.0, right=3019.0, top=51.0)

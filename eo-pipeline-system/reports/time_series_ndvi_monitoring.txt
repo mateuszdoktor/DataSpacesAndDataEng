@@ -1,0 +1,15 @@
+TIME-SERIES NDVI MONITORING REPORT
+==================================
+2024-04-01
+Mean NDVI: 0.37
+2024-05-01
+Mean NDVI: 0.48
+2024-06-01
+Mean NDVI: 0.56
+Vegetation trend:
+-----------------
+First mean NDVI: 0.37
+Last mean NDVI: 0.56
+Change: +0.20
+Detected trend:
+Increasing Vegetation Activity

@@ -1,0 +1,96 @@
+OBSERVATION RANKING REPORT
+============================================================
+1. S2A_MSIL2A_20240129T094241_N0510_R036_T34UCB_20240129T130753
+Time: 2024-01-29T09:42:41.024000Z
+Cloud cover: 0.0
+Assets count: 47
+Cloud score: 100.00
+Completeness score: 30.00
+Recency score: 20.00
+Final score: 150.00
+--------------------------------------------------
+2. S2A_MSIL2A_20240129T094241_N0510_R036_T33UYS_20240129T130753
+Time: 2024-01-29T09:42:41.024000Z
+Cloud cover: 0.01
+Assets count: 47
+Cloud score: 99.99
+Completeness score: 30.00
+Recency score: 20.00
+Final score: 149.99
+--------------------------------------------------
+3. S2A_MSIL2A_20240129T094241_N0510_R036_T33UYR_20240129T130753
+Time: 2024-01-29T09:42:41.024000Z
+Cloud cover: 0.06
+Assets count: 47
+Cloud score: 99.94
+Completeness score: 30.00
+Recency score: 20.00
+Final score: 149.94
+--------------------------------------------------
+4. S2A_MSIL2A_20240129T094241_N0510_R036_T34UDA_20240129T130753
+Time: 2024-01-29T09:42:41.024000Z
+Cloud cover: 0.34
+Assets count: 47
+Cloud score: 99.66
+Completeness score: 30.00
+Recency score: 20.00
+Final score: 149.66
+--------------------------------------------------
+5. S2A_MSIL2A_20240129T094241_N0510_R036_T34UCA_20240129T130753
+Time: 2024-01-29T09:42:41.024000Z
+Cloud cover: 0.85
+Assets count: 47
+Cloud score: 99.15
+Completeness score: 30.00
+Recency score: 20.00
+Final score: 149.15
+--------------------------------------------------
+6. S2A_MSIL2A_20240129T094241_N0510_R036_T34UDB_20240129T130753
+Time: 2024-01-29T09:42:41.024000Z
+Cloud cover: 3.88
+Assets count: 47
+Cloud score: 96.12
+Completeness score: 30.00
+Recency score: 20.00
+Final score: 146.12
+--------------------------------------------------
+7. S2B_MSIL2A_20240127T095159_N0510_R079_T34UCB_20240127T112538
+Time: 2024-01-27T09:51:59.024000Z
+Cloud cover: 99.4
+Assets count: 47
+Cloud score: 0.60
+Completeness score: 30.00
+Recency score: 18.67
+Final score: 49.27
+--------------------------------------------------
+8. S2B_MSIL2A_20240127T095159_N0510_R079_T34UDA_20240127T112538
+Time: 2024-01-27T09:51:59.024000Z
+Cloud cover: 99.64
+Assets count: 47
+Cloud score: 0.36
+Completeness score: 30.00
+Recency score: 18.67
+Final score: 49.03
+--------------------------------------------------
+9. S2B_MSIL2A_20240127T095159_N0510_R079_T34UDB_20240127T112538
+Time: 2024-01-27T09:51:59.024000Z
+Cloud cover: 99.83
+Assets count: 47
+Cloud score: 0.17
+Completeness score: 30.00
+Recency score: 18.67
+Final score: 48.84
+--------------------------------------------------
+10. S2B_MSIL2A_20240127T095159_N0510_R079_T34UCA_20240127T112538
+Time: 2024-01-27T09:51:59.024000Z
+Cloud cover: 99.95
+Assets count: 47
+Cloud score: 0.05
+Completeness score: 30.00
+Recency score: 18.67
+Final score: 48.72
+--------------------------------------------------
+Recommended observation:
+S2A_MSIL2A_20240129T094241_N0510_R036_T34UCB_20240129T130753
+Reason: Highest final score based on cloud cover, asset completeness and recency.
+This simplified ranking may not be sufficient for real missions.
